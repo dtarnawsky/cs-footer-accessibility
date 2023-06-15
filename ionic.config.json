@@ -1,0 +1,7 @@
+{
+  "name": "cs-footer-accessibility",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
